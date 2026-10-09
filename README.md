@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0463-island-perimeter) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0463-island-perimeter) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

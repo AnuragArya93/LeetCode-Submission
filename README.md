@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0463-island-perimeter) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0463-island-perimeter) |
 ## Divide and Conquer
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

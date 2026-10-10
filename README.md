@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0463-island-perimeter) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
@@ -62,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

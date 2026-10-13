@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0459-repeated-substring-pattern) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
@@ -99,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->

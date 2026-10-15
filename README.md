@@ -116,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0459-repeated-substring-pattern) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->

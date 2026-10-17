@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0463-island-perimeter) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -25,9 +26,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0268-missing-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -97,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

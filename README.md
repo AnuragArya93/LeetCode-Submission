@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0054-spiral-matrix) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0268-missing-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers

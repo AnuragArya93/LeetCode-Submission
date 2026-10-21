@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0463-island-perimeter) |
+| [0605-can-place-flowers](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0605-can-place-flowers) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## String
 |  |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->

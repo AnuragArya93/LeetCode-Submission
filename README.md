@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Tree
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0412-fizz-buzz) |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

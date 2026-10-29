@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0605-can-place-flowers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1672-richest-customer-wealth](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
 ## String
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0463-island-perimeter) |
+| [1672-richest-customer-wealth](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
 | ------- |

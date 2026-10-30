@@ -168,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0231-power-of-two) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->

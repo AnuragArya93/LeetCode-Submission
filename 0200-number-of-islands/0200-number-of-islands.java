@@ -21,7 +21,7 @@ class Solution {
     }
 
     private void dfs(char[][] grid, int i, int j) {
-        // Base case: check bounds and if current cell is water
+       
         if (i < 0 || j < 0 || i >= grid.length || j >= grid[0].length || grid[i][j] == '0') {
             return;
         }

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0268-missing-number) |
@@ -72,17 +73,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0463-island-perimeter) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0463-island-perimeter) |
 | [1672-richest-customer-wealth](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
@@ -172,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1791-find-center-of-star-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

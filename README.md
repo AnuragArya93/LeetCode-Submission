@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0463-island-perimeter) |
 | [0605-can-place-flowers](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0605-can-place-flowers) |
+| [0997-find-the-town-judge](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0997-find-the-town-judge) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0268-missing-number) |
+| [0997-find-the-town-judge](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0997-find-the-town-judge) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1791-find-center-of-star-graph) |
 ## Union-Find
 |  |

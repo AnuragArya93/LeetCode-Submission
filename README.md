@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0328-odd-even-linked-list) |
 ## Prefix Sum
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0234-palindrome-linked-list) |
 ## Graph Theory
 |  |
 | ------- |
@@ -188,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

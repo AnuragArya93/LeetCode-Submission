@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0459-repeated-substring-pattern) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0234-palindrome-linked-list) |
 ## DP on Trees
 |  |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

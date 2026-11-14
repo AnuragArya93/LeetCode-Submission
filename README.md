@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0463-island-perimeter) |
 | [0605-can-place-flowers](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0704-binary-search) |
 | [0997-find-the-town-judge](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0997-find-the-town-judge) |
 | [1051-height-checker](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |

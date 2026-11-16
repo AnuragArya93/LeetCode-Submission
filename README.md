@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0459-repeated-substring-pattern) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0268-missing-number) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0231-power-of-two) |

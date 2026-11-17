@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0463-island-perimeter) |
 ## Depth-First Search
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0543-diameter-of-binary-tree) |
 ## Matrix

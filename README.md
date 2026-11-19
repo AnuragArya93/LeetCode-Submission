@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1480-running-sum-of-1d-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1672-richest-customer-wealth) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## String
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0268-missing-number) |
 | [1051-height-checker](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/1051-height-checker) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/0605-can-place-flowers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/AnuragArya93/LeetCode-Submission/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Number Theory
 |  |
 | ------- |
